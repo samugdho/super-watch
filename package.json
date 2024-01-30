@@ -6,12 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["watch", "web development", "productivity"],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "chokidar": "^3.5.3",
-    "csv-parser": "^3.0.0",
     "fs-extra": "^11.2.0",
     "pug": "^3.0.2",
     "sass": "^1.70.0",
