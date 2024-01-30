@@ -1,0 +1,22 @@
+{
+  "name": "super-watch",
+  "version": "1.0.0",
+  "description": "A CLI tool to watch for .ts, .pug, .scss and compile them.",
+  "main": "main.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.5.3",
+    "csv-parser": "^3.0.0",
+    "fs-extra": "^11.2.0",
+    "pug": "^3.0.2",
+    "sass": "^1.70.0",
+    "typescript": "^5.3.3",
+    "yargs": "^17.7.2"
+  },
+  "bin": "cli.mjs"
+}
